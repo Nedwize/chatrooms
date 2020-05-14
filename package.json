@@ -1,0 +1,24 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "Realtime chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NakshatraCodes/chatrooms.git"
+  },
+  "author": "Nakshatra Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NakshatraCodes/chatrooms/issues"
+  },
+  "homepage": "https://github.com/NakshatraCodes/chatrooms#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.25.3",
+    "socket.io": "^2.3.0"
+  }
+}
